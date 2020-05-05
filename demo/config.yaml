@@ -1,0 +1,4 @@
+# default configuration file
+
+site_name: 'DEMO'
+database_uri: postgresql://user:passw@localhost:5432/db_name
